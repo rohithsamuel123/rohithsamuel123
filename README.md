@@ -20,12 +20,12 @@
 
 <!-- Points with emojis/stickers -->
 <p align="left" style="font-size:16px;">
-✅ 🐍 <b>Backend Development</b> with <b>Python & Django</b><br>
-✅ 🌐 <b>Full Stack Web Applications</b> (Frontend + Backend)<br>
-✅ 🗄️ <b>Designing & Managing SQL Databases</b><br>
-✅ 🔥 <b>Hardworking</b> & Always Learning<br>
-✅ 🧩 <b>Efficient Multitasking</b> & Problem Solving<br>
-✅ 🎯 Writing <b>Clean, Scalable, Professional Code</b>
+🐍 <b>Backend Development</b> with <b>Python & Django</b><br>
+🌐 <b>Full Stack Web Applications</b> (Frontend + Backend)<br>
+🗄️ <b>Designing & Managing SQL Databases</b><br>
+🔥 <b>Hardworking</b> & Always Learning<br>
+🧩 <b>Efficient Multitasking</b> & Problem Solving<br>
+🎯 Writing <b>Clean, Scalable, Professional Code</b>
 </p>
 
 <!-- Professional Tech Badges -->
