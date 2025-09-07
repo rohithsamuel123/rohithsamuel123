@@ -17,8 +17,15 @@
 
 ### ⚡ What I Do
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF61A6&center=true&vCenter=true&width=600&lines=🐍+Backend+with+Python+%26+Django;🌐+Frontend+with+HTML+CSS+JS;🗄️+Database+Design+with+SQL;💪+Hardworking+%26+Dedicated;🧩+Multitasker+%7C+Problem+Solver;👨‍💻+Passionate+Coder+%7C+Tech+Explorer" />
+  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Django-Web%20Framework-green?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/SQL-Database-red?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Hardworking-💪-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multitasker-🧩-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Passionate-Coder-yellow?style=for-the-badge&logo=github" />
 </p>
+
 
 
 ---
