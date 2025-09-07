@@ -17,14 +17,17 @@
 
 ### ⚡ What I Do
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Django-Web%20Framework-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20CSS%20JS-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/SQL-Database-red?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Hardworking-💪-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multitasker-🧩-pink?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passionate-Coder-yellow?style=for-the-badge&logo=github" />
+  🐍 Backend → <b>Python + Django</b> <br/>
+  🌐 Frontend → <b>HTML + CSS + JavaScript</b> <br/>
+  🗄️ Databases → <b>SQL</b> <br/>
+  💪 <b>Hardworking</b> & 🧩 <b>Multitasker</b> <br/>
+  👨‍💻 <b>Passionate Coder</b> 🚀
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="cool animation"/>
+</p>
+
 
 
 
