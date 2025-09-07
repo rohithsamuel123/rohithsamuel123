@@ -18,24 +18,21 @@
 ### ⚡ What I Do
 <div align="center">
 
-<!-- Neon glowing style text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00F5FF&center=true&vCenter=true&width=700&lines=🐍+Python+Backend+Developer;🌐+Full+Stack+Web+Apps+%7C+Django+%7C+HTML+CSS+JS;🗄️+SQL+Database+Design+%26+Management;🔥+Hardworking+%26+Fast+Learner;🧩+Multitasker+%7C+Problem+Solver;🎯+Clean+Scalable+Creative+Code" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🐍+Backend+Development+with+Python+%26+Django;🌐+Building+Full+Stack+Web+Applications;🗄️+Designing+%26+Managing+SQL+Databases;🔥+Hardworking+%26+Always+Learning;🧩+Efficient+Multitasking+%26+Problem+Solving;🎯+Writing+Clean,+Scalable,+Professional+Code" alt="Typing Animation" />
 
-<!-- Animated neon badges -->
+<!-- Professional Tech Badges -->
 <br><br>
-<img src="https://img.shields.io/badge/Python-🐍-00F5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/Django-🌐-00F5FF?style=for-the-badge&logo=django&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/SQL-🗄️-00F5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/Hardworker-🔥-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/Multitasker-🧩-00F5FF?style=for-the-badge&logo=elastic&logoColor=white&labelColor=101010">
-<img src="https://img.shields.io/badge/Creative_Code-🎯-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 </div>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="cool animation"/>
-</p>
 
 
 
