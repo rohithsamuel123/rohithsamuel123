@@ -18,11 +18,18 @@
 ### ⚡ What I Do
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=🐍+Backend+Development+with+Python+%26+Django;🌐+Building+Full+Stack+Web+Applications;🗄️+Designing+%26+Managing+SQL+Databases;🔥+Hardworking+%26+Always+Learning;🧩+Efficient+Multitasking+%26+Problem+Solving;🎯+Writing+Clean,+Scalable,+Professional+Code" alt="Typing Animation" />
+<!-- Points with emojis/stickers -->
+<p align="left" style="font-size:16px;">
+✅ 🐍 <b>Backend Development</b> with <b>Python & Django</b><br>
+✅ 🌐 <b>Full Stack Web Applications</b> (Frontend + Backend)<br>
+✅ 🗄️ <b>Designing & Managing SQL Databases</b><br>
+✅ 🔥 <b>Hardworking</b> & Always Learning<br>
+✅ 🧩 <b>Efficient Multitasking</b> & Problem Solving<br>
+✅ 🎯 Writing <b>Clean, Scalable, Professional Code</b>
+</p>
 
 <!-- Professional Tech Badges -->
-<br><br>
+<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -33,7 +40,6 @@
 </p>
 
 </div>
-
 
 
 
