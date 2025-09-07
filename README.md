@@ -16,9 +16,21 @@
 ---
 
 ### ⚡ What I Do
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF61A6&center=true&vCenter=true&width=800&lines=🐍+Write+Python+code+for+backend+systems;🌐+Build+web+apps+with+Django,+HTML,+CSS,+JS;🗄️+Design+%26+manage+SQL+databases;🔥+Work+hard+%26+learn+fast;🧩+Handle+multiple+tasks+efficiently;🎯+Aim+for+clean,+scalable,+creative+code" />
-</p>
+<div align="center">
+
+<!-- Neon glowing style text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=00F5FF&center=true&vCenter=true&width=700&lines=🐍+Python+Backend+Developer;🌐+Full+Stack+Web+Apps+%7C+Django+%7C+HTML+CSS+JS;🗄️+SQL+Database+Design+%26+Management;🔥+Hardworking+%26+Fast+Learner;🧩+Multitasker+%7C+Problem+Solver;🎯+Clean+Scalable+Creative+Code" alt="Typing SVG" />
+
+<!-- Animated neon badges -->
+<br><br>
+<img src="https://img.shields.io/badge/Python-🐍-00F5FF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Django-🌐-00F5FF?style=for-the-badge&logo=django&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/SQL-🗄️-00F5FF?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Hardworker-🔥-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Multitasker-🧩-00F5FF?style=for-the-badge&logo=elastic&logoColor=white&labelColor=101010">
+<img src="https://img.shields.io/badge/Creative_Code-🎯-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010">
+
+</div>
 
 
 <p align="center">
