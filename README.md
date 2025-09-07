@@ -17,12 +17,9 @@
 
 ### ⚡ What I Do
 <p align="center">
-  🐍 Backend → <b>Python + Django</b> <br/>
-  🌐 Frontend → <b>HTML + CSS + JavaScript</b> <br/>
-  🗄️ Databases → <b>SQL</b> <br/>
-  💪 <b>Hardworking</b> & 🧩 <b>Multitasker</b> <br/>
-  👨‍💻 <b>Passionate Coder</b> 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF61A6&center=true&vCenter=true&width=800&lines=🐍+Write+Python+code+for+backend+systems;🌐+Build+web+apps+with+Django,+HTML,+CSS,+JS;🗄️+Design+%26+manage+SQL+databases;🔥+Work+hard+%26+learn+fast;🧩+Handle+multiple+tasks+efficiently;🎯+Aim+for+clean,+scalable,+creative+code" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="cool animation"/>
