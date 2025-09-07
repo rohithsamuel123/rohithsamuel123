@@ -39,7 +39,10 @@
 
 ---
 
-<p align="center"> <!-- Animated/Gradient Badges --> <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&gradient=linear&colorA=3776AB&colorB=6DC6FF" /> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&gradient=linear&colorA=092E20&colorB=20B2AA" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&gradient=linear&colorA=F7DF1E&colorB=FFD700" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=linear&colorA=E34F26&colorB=FF7F50" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=linear&colorA=1572B6&colorB=00BFFF" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&gradient=linear&colorA=336791&colorB=00CED1" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&gradient=linear&colorA=F05032&colorB=FF7F50" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&gradient=linear&colorA=181717&colorB=6E5494" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&gradient=linear&colorA=007ACC&colorB=00BFFF" /> </p>
+### 🚀 My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
+</p>
 
 ---
 
