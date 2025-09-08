@@ -31,8 +31,9 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdiM2QyZzQ2YjIwb3B6eHdlZzFxZnprNncyYXUwb3FqdTRldHhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtZOb9EUABnuqA/giphy.gif" width="500" alt="Retro neon grid animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl2bzV4a2N6dW1jMWp0YjZkcjM5azJ2aGp6bGdsOTJ5emZyZjVpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="500" alt="Pixel coding retro vibe"/>
 </p>
+
 
 </div>
 
