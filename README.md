@@ -15,20 +15,42 @@
 
 ---
 
+---
+
 ### ⚡ What I Do
 <div align="center">
 
-<!-- Points with emojis/stickers -->
-<p align="left" style="font-size:16px;">
-🐍 <b>Backend Development</b> with <b>Python & Django</b><br>
-🌐 <b>Full Stack Web Applications</b> (Frontend + Backend)<br>
-🗄️ <b>Designing & Managing SQL Databases</b><br>
-🔥 <b>Hardworking</b> & Always Learning<br>
-🧩 <b>Efficient Multitasking</b> & Problem Solving<br>
-🎯 Writing <b>Clean, Scalable, Professional Code</b>
-</p>
+<p align="left" style="font-size:17px; line-height: 1.8;">
 
-<!-- Professional Tech Badges -->
+<span style="color:#00C9A7; font-weight:bold; text-shadow: 0 0 5px #00C9A7, 0 0 10px #00FFD1;">
+🐍 Backend Development with Python & Django
+</span><br>
+
+<span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 5px #FFD700, 0 0 10px #FFA500;">
+🌐 Full Stack Web Applications (Frontend + Backend)
+</span><br>
+
+<span style="color:#4CC9F0; font-weight:bold; text-shadow: 0 0 5px #4CC9F0, 0 0 10px #00BFFF;">
+🗄️ Designing & Managing SQL Databases
+</span><br>
+
+<span style="color:#FF4D6D; font-weight:bold; text-shadow: 0 0 5px #FF4D6D, 0 0 10px #FF1E56;">
+🔥 Hardworking & Always Learning
+</span><br>
+
+<span style="color:#A259FF; font-weight:bold; text-shadow: 0 0 5px #A259FF, 0 0 10px #B983FF;">
+🧩 Efficient Multitasking & Problem Solving
+</span><br>
+
+<span style="color:#00FF87; font-weight:bold; text-shadow: 0 0 5px #00FF87, 0 0 10px #39FF14;">
+🎯 Writing Clean, Scalable, Professional Code
+</span>
+
+</p>
+</div>
+
+---
+
 <br>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
