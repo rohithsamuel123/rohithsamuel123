@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Rohith</h1>
-<h3 align="center">Python Full Stack Developer | Dreamer 💡 | Doer 🚀</h3>
+<h3 align="center">Python Full Stack Developer Think 💡 | Build ⚡ | Launch 🚀</h3>
 
 <!-- Typing animation that tells your qualities -->
 <p align="center">
