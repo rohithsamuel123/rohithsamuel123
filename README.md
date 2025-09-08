@@ -31,8 +31,9 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="YOUR_RETRO_GAME_STYLE_GIF_URL" width="500" alt="Retro game style coding animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdiM2QyZzQ2YjIwb3B6eHdlZzFxZnprNncyYXUwb3FqdTRldHhkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YtZOb9EUABnuqA/giphy.gif" width="500" alt="Retro neon grid animation"/>
 </p>
+
 </div>
 
 ---
