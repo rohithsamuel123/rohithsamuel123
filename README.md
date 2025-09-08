@@ -31,8 +31,9 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f9jQLaSiLdTuw/giphy.gif" width="500" alt="Retro neon coding vibe"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Jyd2NmbTR1bHJ2eGV5eW80YjI0M3ZwM3dlcHZ2bmYzOTBrZWZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYBfG3dEENxZ6/giphy.gif" width="500" alt="Retro arcade screen"/>
 </p>
+
 </div>
 
 ---
