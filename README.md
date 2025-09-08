@@ -31,8 +31,9 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="500" alt="Matrix coding animation"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="Terminal typing animation"/>
 </p>
+
 
 </div>
 
