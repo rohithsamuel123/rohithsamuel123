@@ -31,10 +31,8 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" alt="Terminal typing animation"/>
+  <img src="https://media.giphy.com/media/f9jQLaSiLdTuw/giphy.gif" width="500" alt="Retro neon coding vibe"/>
 </p>
-
-
 </div>
 
 ---
