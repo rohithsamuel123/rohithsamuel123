@@ -15,37 +15,28 @@
 
 ---
 
+---
+
 ### ⚡ What I Do
 <div align="center">
 
-<p align="left" style="font-size:17px; line-height: 1.8;">
-
-<span style="color:#00C9A7; font-weight:bold; text-shadow: 0 0 5px #00C9A7, 0 0 10px #00FFD1;">
-🐍 Backend Development with Python & Django
-</span><br>
-
-<span style="color:#FFD700; font-weight:bold; text-shadow: 0 0 5px #FFD700, 0 0 10px #FFA500;">
-🌐 Full Stack Web Applications (Frontend + Backend)
-</span><br>
-
-<span style="color:#4CC9F0; font-weight:bold; text-shadow: 0 0 5px #4CC9F0, 0 0 10px #00BFFF;">
-🗄️ Designing & Managing SQL Databases
-</span><br>
-
-<span style="color:#FF4D6D; font-weight:bold; text-shadow: 0 0 5px #FF4D6D, 0 0 10px #FF1E56;">
-🔥 Hardworking & Always Learning
-</span><br>
-
-<span style="color:#A259FF; font-weight:bold; text-shadow: 0 0 5px #A259FF, 0 0 10px #B983FF;">
-🧩 Efficient Multitasking & Problem Solving
-</span><br>
-
-<span style="color:#00FF87; font-weight:bold; text-shadow: 0 0 5px #00FF87, 0 0 10px #39FF14;">
+<p align="left" style="font-size:16px; line-height:1.8;">
+🐍 Backend Development with Python & Django <br>
+🌐 Full Stack Web Applications (Frontend + Backend) <br>
+🗄️ Designing & Managing SQL Databases <br>
+🔥 Hardworking & Always Learning <br>
+🧩 Efficient Multitasking & Problem Solving <br>
 🎯 Writing Clean, Scalable, Professional Code
-</span>
-
 </p>
+
+<!-- Motion/animated image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Coding laptop animation"/>
+</p>
+
 </div>
+
+---
 
 ---
 
