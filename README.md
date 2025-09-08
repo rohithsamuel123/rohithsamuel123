@@ -31,7 +31,7 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Coding laptop animation"/>
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="500" alt="Matrix coding animation"/>
 </p>
 
 </div>
