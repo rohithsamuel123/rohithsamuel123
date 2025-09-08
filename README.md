@@ -30,9 +30,8 @@
 </p>
 
 <!-- Motion/animated image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl2bzV4a2N6dW1jMWp0YjZkcjM5azJ2aGp6bGdsOTJ5emZyZjVpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="500" alt="Pixel coding retro vibe"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<br><br>
 
 
 </div>
