@@ -31,9 +31,8 @@
 
 <!-- Motion/animated image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Jyd2NmbTR1bHJ2eGV5eW80YjI0M3ZwM3dlcHZ2bmYzOTBrZWZzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gYBfG3dEENxZ6/giphy.gif" width="500" alt="Retro arcade screen"/>
+  <img src="YOUR_RETRO_GAME_STYLE_GIF_URL" width="500" alt="Retro game style coding animation"/>
 </p>
-
 </div>
 
 ---
